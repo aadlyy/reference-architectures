@@ -1,0 +1,17 @@
+{
+  "name": "aws-startup-advisor",
+  "description": "Helps early-stage startups pick, size, and grow into an AWS reference architecture that matches their workload, team, and budget.",
+  "version": "0.1.0",
+  "author": {
+    "name": "aadlyy"
+  },
+  "homepage": "https://github.com/aadlyy/reference-architectures/tree/master/aws-startup-advisor",
+  "license": "MIT",
+  "keywords": [
+    "aws",
+    "startup",
+    "reference-architecture",
+    "cloud",
+    "infrastructure"
+  ]
+}
